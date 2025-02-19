@@ -1,0 +1,4 @@
+sample_num,loss_fn,random_start,steps,clean,0.031
+10000,xent,1,50,53.40,0.50
+
+10000,xent,1,50,53.00,0.50

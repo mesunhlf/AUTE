@@ -1,0 +1,2 @@
+10.0,6.0,8.0,clean,loss_fn,random_start,sample_num,steps
+53.62,64.46,59.14,76.16,xent,1,10000,10
